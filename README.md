@@ -13,7 +13,7 @@ Other languages include YAML
 - ASP.NET Core (MVC, API, Razor Pages)
 - Rest Web API
 - WCF Service
-- React (Mostly Next.js)
+- React js
 
 ### Databases I have worked
 - SQL Server
