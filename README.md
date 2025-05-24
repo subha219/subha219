@@ -30,13 +30,13 @@ Other languages include YAML
 - Postman
 - SQL Server Management Studio
 - Visual Studio
-- Visual Studio Code
 - Git kraken
 - Docker Desktop
 - Power BI
 - log4net
 - Azure DevOps Boards
 - JIRA Bit Bucket
+- SSIS ETL Process
 
 <!---
 Subha219 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
